@@ -1,0 +1,24 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# VSCode settings
+.vscode/
+
+# Logs & system files
+*.log
+*.DS_Store
+
+# Output files
+*.zip
+
+# Do not commit large dataset
+lms-stage-access.log
